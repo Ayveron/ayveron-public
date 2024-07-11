@@ -1,12 +1,6 @@
 {
   "apiConfig": {
     "baseUrl": "http://localhost:5000/api",
-    "timeout": 5000,
-    "endpoints": {
-      "login": "/auth/login",
-      "register": "/auth/register",
-      "getUser": "/users/get",
-      "updateUser": "/users/update"
-    }
+    "timeout": 5000
   }
 }
